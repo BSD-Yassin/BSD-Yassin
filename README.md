@@ -2,12 +2,13 @@
 <h3 align="center">I am the laziest DevOps around, anything there is to automate, I will automate. I also use fair often python for personal and side project.</h3>
 
 - 🔭 I’m currently working on [A Nvim profile generator](https://github.com/BSD-Yassin/Golang-Nvim-Cli)
+- 🔭 I’m currently working on [A Folium Map for non-profit association](https://github.com/BSD-Yassin/Golang-Nvim-Cli)
 
-- 🌱 I’m currently learning **Golang, Javascript**
+- 🌱 I’m currently learning **Golang, Javascript, Cybersec**
 
 - 👯 I’m looking to collaborate on **Anything Python, Golang or DevOps tools related**
 
-- 💬 Ask me about **Linux, Bash, Python, Docker, Ansible**
+- 💬 Ask me about **Linux, Bash, Python, Docker, Ansible, Vagrant, Android**
 
 - 📫 How to reach me **Yassin.bousaadi@gmail.com**
 
