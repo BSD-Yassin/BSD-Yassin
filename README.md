@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">I am the laziest DevOps around, anything there is to automate, I will automate. I lean towards Open-Source and Linux based technologies and I also use fair often python for personal and side project. Looking to learn Android development through Kotlin in a not so distant future, and cybersecurity in the long run</h3>
 
-- 🔭 I’m currently working on [A Nvim profile generator](https://github.com/BSD-Yassin/Golang-Nvim-Cli)
-- 🔭 I’m currently working on [A Folium Map for non-profit association](https://github.com/BSD-Yassin/Golang-Nvim-Cli)
+- 🔭 I’m currently working on [A Nvim profile generator](https://github.com/BSD-Yassin/Golang-Nvim-Cli) with Golang
+- 🔭 I’m currently working on [A Folium Map for non-profit association](https://github.com/BSD-Yassin/Golang-Nvim-Cli) with Python and Folium
 
 - 🌱 I’m currently learning **Golang, Javascript, Cybersec**
 
