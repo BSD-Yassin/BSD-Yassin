@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Linux, Bash, Python, Docker, Ansible, Vagrant, Android**
 
-- 📫 How to reach me **Yassin.bousaadi@gmail.com**
+- 📫 How to reach me **Yassin.b@outlook.be**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
