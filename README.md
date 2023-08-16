@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassin </h1>
-- 🌱 I’m currently learning **Javascript, Java**
+<h2> Nice to meet you ! </h2>
+- 🌱 I’m currently learning **Javascript & Java**
 
 - 👯 I’m looking to collaborate on **Anything Open-source, DevOps related, or maybe Dev-oriented**
 
