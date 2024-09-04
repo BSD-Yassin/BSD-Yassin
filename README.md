@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Open source & Ethical code projects**
 
-- 📝 I regularly write articles on [Devmess.xyz](Devmess.xyz)
+- 📝 I rarely write articles on [Devmess.xyz](Devmess.xyz)
 
-- 💬 Ask me about **Ansible, Docker, Unix, Podman,**
+- 💬 Ask me about **Ansible, Docker, Unix, Podman, Python, Javascript**
 
 - 📫 How to reach me **Yassin.bousaadi@gmail.com**
 
